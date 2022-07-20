@@ -1,0 +1,16 @@
+Hi there, 
+
+I hope this email finds you well. I was looking at the company's data by decompressing it and reading it through Python. This gave me a better idea of the data layout and observe any potential issues in the data. I have several questions and issues about the data, and I was wondering if you can help me answering them. 
+
+Firstly, there is an issue with the data that some of its features are recorded in a not-so-intuitional way and it is making it difficult for me to decipher and analyze data. For instance, instead of all the dates being formatted at year-month-day-hour-minute format like 2016-01-01-17:30, it is instead written as "160968753100." I am not sure what it means or what time the data is telling us. 
+
+I feel that this issue can be resolved if I can see the source of this data. Maybe if I can look at actual receipts/ user activity on the website/app, I can compare recorded data with the source's recording mechanism and decipher the time format. I can also update the data legend so that this issue won't repeat with others in the future.
+
+Along with asking for access (or partial access) for the data's source, I was also wondering if you can help me by telling me what questions you would like to get answers of or anything you are particularly interested. Since the data is a bit unstructured, I will need to know which direction we are going to so that I can clean the data for that purpose accordingly. For instance, at this point, our receipts and brands data are not connected. If you would like to know, for example: the top 5 brands sold in the past month, I will work connecting receipts and brands along with cleaning date format. If I can get a direction that you would like to go to, I can make changes to the data so that we can optimize its importance and relevance. 
+
+Lastly, I would say that the data is capturing some interesting points and it will be very interesting to further analyze it. I do see some scaling issues because the data is quite messy, and databases usually require clean and same type of data in their categories/ columns. Additionally, there are several records with a lot of blanks and missing or repetitive IDs. The issues of messiness and duplication can be resolved. I can spend more time to write a code which will omit part of data that do not fit with data structure, streamline repetitive IDs activity, and replace blanks with empty values so that the data can run smoothly against any analysis code.
+
+Apologies for the lengthy email. I appreciate your time and consideration. 
+
+Regards,
+Anoushka
